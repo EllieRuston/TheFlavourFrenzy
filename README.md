@@ -3,7 +3,7 @@ The Flavour Frenzy, a leading food industry brand that offers quick and easy mea
 This Website will be developed in Visual Studio using ASP.net(7) MVC 
 
 Technology stack:
-GitHub
-GitBash
-Visual Studio 2022 Community
-Azure Web App's for testing and deployment
+GitHub;
+GitBash;
+Visual Studio 2022 Community;
+Azure Web App's for testing and deployment;
